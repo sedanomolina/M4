@@ -8,7 +8,7 @@
     "build": "eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0"
   },
   "author": "Henry",
   "license": "ISC",

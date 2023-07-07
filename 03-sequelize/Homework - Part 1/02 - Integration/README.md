@@ -42,7 +42,7 @@ Una vez las hayas instalado tendrás que crear la base de datos en PostgreSQL. P
 
    Puedes verificar que se haya creado correctamente con el comando:
 
-   ```SQL
+   ```sql
       \l
    ```
 
